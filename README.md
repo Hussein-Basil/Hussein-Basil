@@ -6,4 +6,3 @@
 - 👯 I’m looking to collaborate on software projects related to petroleum
 - 💬 I can build web applications using ReactJS
 - 🚀 I have basic experience in AI programming
--->
