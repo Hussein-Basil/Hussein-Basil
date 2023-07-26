@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😎 Hi! I'm Hussein, an Oil & Gas Engineering Undergraduate and Software Developer
+- 😎 Hi! I'm Hussein, an Undergraduate Oil & Gas Engineer and Software Developer
 - 🔭 I’m currently working on building clones of famous petroleum software apps
 - 🌱 I’m currently learning QML and C++
 - 👯 I’m looking to collaborate on software projects related to petroleum
