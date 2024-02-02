@@ -9,7 +9,7 @@
 
 🤝 I can build web applications using **ReactJS, NextJS, and NodeJS**
 
-📱 I have basic knowledge in Android App Development using **Kotlin**
+📲 I have basic knowledge in Android App Development using **Kotlin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
