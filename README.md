@@ -5,11 +5,11 @@
 
 🌱 I’m currently researching on **Machine Learning** Applications in the Oil & Gas Industry
 
-🚀 I have experience building AI models with **Python and R**
+🚀 I've experience building AI models with **Python and R**
 
 🤝 I can build web applications using **ReactJS, NextJS, and NodeJS**
 
-📲 I have basic knowledge in Android App Development using **Kotlin**
+📲 I've basic knowledge in Android App Development using **Kotlin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
