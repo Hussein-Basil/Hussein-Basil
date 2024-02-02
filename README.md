@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/hubasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hubasil" height="30" width="40" /></a>
 <a href="https://instagram.com/hubasil.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hubasil.dev" height="30" width="40" /></a>
-<a href="https://discord.gg/7815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7815" height="30" width="40" /></a>
+<a href="https://discord.com/users/612377842138873906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7815" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
