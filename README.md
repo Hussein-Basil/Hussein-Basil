@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussein-basil&label=Profile%20views&color=0e75b6&style=flat" alt="hussein-basil" /> </p>
 
-🔭 I’m currently researching on **Machine Learning Applications in Oil & Gas Industry**
+🌱 I’m currently researching on **Machine Learning Applications in Oil & Gas Industry**
 
 🚀 I have experience building AI models with **Python and R**
 
